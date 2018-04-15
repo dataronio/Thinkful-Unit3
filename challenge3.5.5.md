@@ -32,7 +32,7 @@ You now have a fairly substantial starting toolbox of supervised learning method
 
 8. Identify faces in an image.
 
-   Answer: Face recognition with lots of data state of the art methods are deep learning. We could try PCA and use a logistic regression also.
+   Answer: For face recognition with lots of data the state of the art methods are currently deep learning. We could try PCA by rolling up the image into a vector.  With a dataset of images we could then use a logistic regression to classify faces.
 
 9. Predict which of three flavors of ice cream will be most popular with boys vs girls.
 
